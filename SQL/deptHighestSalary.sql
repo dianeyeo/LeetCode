@@ -1,6 +1,6 @@
 /*
 https://leetcode.com/problems/department-highest-salary/
-Difficulty: Easy
+Difficulty: Medium
 
 Table: Employee
 
