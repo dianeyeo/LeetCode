@@ -1,4 +1,4 @@
 # LeetCode
 	Python and SQL practice on LeetCode
 	
-	Attempt on completing 3 questions daily to prep for technical interviews.
+	Attempt on completing 1 question daily to prep for technical interviews.
