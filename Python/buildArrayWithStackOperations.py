@@ -52,7 +52,7 @@ class Solution:
             if i not in target:
                 """
                 if i not in target, append list with "Pop"
-                but because target is in order, has to add the element before removing it
+                but because target is in running order, has to add the element before removing it
                 therefore we "Push" the element into target, then "Pop" to remove before moving on to next element
                 """
                 operation.append("Pop")
