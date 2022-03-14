@@ -45,7 +45,7 @@ nums is sorted in non-decreasing order.
 """
 
 class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
+    def removeDuplicates(self, nums) -> int:
         duplicates = 0      # count number of duplicated nums
         for i in range(1, len(nums)):
             if nums[i] == nums[i-1]:        # if current num == prev num
