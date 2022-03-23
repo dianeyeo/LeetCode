@@ -28,6 +28,7 @@ Constraints:
 0 <= n <= 30
 """
 
+
 class Solution:
     def fib(self, n: int) -> int:
         # base case
@@ -35,6 +36,6 @@ class Solution:
             return 0
         if n == 1:
             return 1
-        
+
         # using recursion
         return self.fib(n-1) + self.fib(n-2)
